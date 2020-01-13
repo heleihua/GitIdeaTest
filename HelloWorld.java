@@ -14,6 +14,7 @@ public class HelloWorld {
         date = getDate();
         System.out.println("date = " + date);
         System.out.println(date);
+        System.out.println(date);
     }
 
     private static Date getDate() {
